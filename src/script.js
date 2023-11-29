@@ -1,5 +1,5 @@
 // API Key
-const API_KEY = 'eOLVWKXYohyLg0jsTWCbSfsAT06ICQwE';
+const API_KEY = 'IjKsQ2zsA6txVYwBwwSJrVwuJN17JLGx';
 // Search term
 // const searchTerm = 'coffee';
 
